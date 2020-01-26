@@ -10,7 +10,7 @@ def summon_captain_planet(array)
   i = 0 
   caps = []
   while i < array.length 
-  caps << 
+  caps << array[i].capitalize + "!"
 end
 
 def long_planeteer_calls
