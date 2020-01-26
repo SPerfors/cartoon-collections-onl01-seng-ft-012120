@@ -22,6 +22,7 @@ def long_planeteer_calls
     TRUE
   else
     False
+  i += 1 
 end
 
 def find_the_cheese(array)
