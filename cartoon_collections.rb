@@ -8,7 +8,8 @@ end
 
 def summon_captain_planet(array)
   i = 0 
-  while i
+  caps = []
+  while i < array.length 
 end
 
 def long_planeteer_calls
